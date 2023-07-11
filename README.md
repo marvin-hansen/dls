@@ -1,6 +1,6 @@
 # dls
 
-MVP exploration for ICP grant application.
+MVP exploration for ICP grant application. 
 
 Exploring
 * Governance Layer
