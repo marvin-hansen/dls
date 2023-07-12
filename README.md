@@ -1,7 +1,4 @@
-# dls
 
-MVP exploration for ICP grant application. 
+MOVED TO: 
 
-Exploring
-* Governance Layer
-* Contract Layer
+https://github.com/orgs/decentralized-legal-system/repositories
